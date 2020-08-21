@@ -4,4 +4,5 @@ def square_array(array)
    answer = num * num
    puts "#{answer}"
   end
+  new array = array.push
 end

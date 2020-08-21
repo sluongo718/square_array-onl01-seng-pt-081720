@@ -4,5 +4,5 @@ def square_array(array)
    answer = num * num
    
   end
-  num
+  puts "answer"
 end
